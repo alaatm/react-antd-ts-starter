@@ -1,5 +1,6 @@
 
 * `create-react-app myapp --scripts-version=react-scripts-ts`
+* `cd ./myapp`
 * `yarn add antd --save`
 * `yarn add react-app-rewired react-app-rewire-less ts-import-plugin --dev`
 * Add `config-overrides.js` file.
